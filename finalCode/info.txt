@@ -1,9 +1,0 @@
-hi hi!!!
-so uploading two versions:
-- the final project mcmc working (OG) is the one with the chain i'm running - the chi-square value has stablised out from what i've managed to see so far, but it was oscillating wildly at the beignning, now, it's around 14,000.
-- the final project mcmc working copy 1 (Copy 1) i made some modifications to while I was running the other one... I wanted to put the errors back in and see how that would affect the chi-Squared. But the other one is still running and I'm giving up waiting for it to be done, so i'll just let it run overnight instead of trying copy 1.
-this means that Copy 1 hasn't been debugged yet :(((( but if someone wants to run it and see what chi-Squared looks like for comparison that would be cool!
-but i think also running OG would be good just for more chain values, yk? currently i think mine is suppose to go till a length of 50,000 but it's been at least six and it's only around 15,000. so i'm not sure how possible it is to run. 
-
-UPDATE!!
-the final version of the code is finalVersion.ipynb. PLEASE RUN THIS VERSION. It is the de-bugged and slightly modified version of  the final project mcmc working copy 1. WHEN RUNNING THIS VERSION PLEASE CHANGE THE NREPEATS VALUE TO 100 OR ABOVE. 

@@ -1,5 +1,0 @@
-,b,c,d,e,f,Notes: time is given in days
-a,0.0673,0.1181,0.165,0.212,0.252,the semi-major axis in AU
-e,0.2,0.05,0.03,0.02,0.02,the eccentricity of the orbit given by the upper bound
-inc,90,90,90,90,90,we assume the inc = 90 for planar orbits
-m,3.68,10,8.2,6.6,8.2,"mass is given by earth masses, we have the upper bound for c and d"
